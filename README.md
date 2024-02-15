@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bob23code
-- 👀 I’m interested in Food Science and Data Analysis
-- 🌱 I’m currently learning Data Science with python as the primary programming language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Food Science, Sustainability and Data Analysis
+- 🌱 I’m currently learning working as a food system sustainability analyst 
 - 📫 How to reach me ...
 
 <!---
